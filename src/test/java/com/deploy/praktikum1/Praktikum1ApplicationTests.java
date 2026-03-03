@@ -1,4 +1,13 @@
 package com.deploy.praktikum1;
 
-public interface UserService {
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Praktikum1ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
 }
